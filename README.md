@@ -25,7 +25,7 @@ I am currently learning Go and Python, microservices architecture, data analysis
 
 <!-- <img height='190px' align='center' src='https://github-readme-stats.vercel.app/api?username=dam-mek&hide_rank=true&hide_title=true&rank_icon=github&show_icons=true&theme=transparent' /> 
 -->
-<img height='190px' align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=dam-mek&card_width=200&theme=transparent' /> 
+<img height='190px' align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=dam-mek&card_width=500&theme=transparent' /> 
 
 <img height='190px' align="center" src='https://github-readme-streak-stats.herokuapp.com/?user=dam-mek&card_width=300&theme=transparent&hide_current_streak=true&hide_longest_streak=true' />
 
