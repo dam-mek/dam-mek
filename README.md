@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">💻 Third-year Computer Science student at ITMO University</h3>
+<h3 align="center">💻 A graduate of the Computer Science at ITMO University</h3>
 
 I am currently learning Go and Python, microservices architecture, data analysis and machine learning.
 
